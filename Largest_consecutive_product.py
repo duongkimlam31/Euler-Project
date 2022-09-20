@@ -21,7 +21,7 @@ Question: The four adjacent digits in the 1000-digit number that have the greate
 05886116467109405077541002256983155200055935729725
 71636269561882670428252483600823257530420752963450
 
-Find the highest product that can be obtained from the adjacent sequence in the 1000-digit number. What is the value of this product?
+Find the highest product that can be obtained from the sequence in the 1000-digit number. What is the value of this product?
 '''
 def product(n):
     curr = n % 10
