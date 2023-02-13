@@ -28,3 +28,6 @@ def solution(n):
         return a*b*c
     else:
         return - 1
+
+if __name__ == "__main__":
+    print(solution(1000))
